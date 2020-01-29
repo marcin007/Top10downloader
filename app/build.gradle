@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "academy.learnprogramming.top10downloader"
+        applicationId "com.example.top10downloader"
         minSdkVersion 17
         targetSdkVersion 28
         versionCode 1

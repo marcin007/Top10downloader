@@ -4,10 +4,6 @@ import android.util.Log
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory
 
-/**
- * Created by timbuchalka for Android Oreo with Kotlin course
- * from www.learnprogramming.academy
- */
 class ParseApplications {
     private val TAG = "ParseApplications"
     val applications = ArrayList<FeedEntry>()
