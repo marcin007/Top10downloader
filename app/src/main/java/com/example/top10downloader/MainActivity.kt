@@ -1,8 +1,8 @@
 package com.example.top10downloader
 import android.os.AsyncTask
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.util.Log
-import androidx.appcompat.app.AppCompatActivity
 import java.net.URL
 
 class FeedEntry {
